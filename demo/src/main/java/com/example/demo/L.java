@@ -1,5 +1,4 @@
 package com.example.demo;
-
 import android.util.Log;
 
 /**
@@ -8,8 +7,8 @@ import android.util.Log;
 
 public class L {
     private static final String TAG="hello worldzb";
-    private static boolean debug=false;
-    public  static void e(String msg){
+    private static boolean debug=true;
+    public static void e(String msg){
         if (debug)
             Log.e(TAG,msg);
 
