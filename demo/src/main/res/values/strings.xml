@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="do_get">get请求</string>
+</resources>

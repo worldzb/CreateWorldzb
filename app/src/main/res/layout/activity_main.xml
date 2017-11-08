@@ -23,4 +23,11 @@
         android:onClick="startCamera"
         tools:layout_editor_absoluteY="0dp"
         tools:layout_editor_absoluteX="8dp" />
+    <Button
+        android:layout_width="364dp"
+        android:layout_height="46dp"
+        android:text="@string/Title"
+        tools:layout_editor_absoluteY="55dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:onClick="openBlueStark"/>
 </android.support.constraint.ConstraintLayout>
